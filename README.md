@@ -15,11 +15,13 @@ Electron
 * [Electron Builder](https://github.com/electron-userland/electron-builder)
 * [Electron Devtools Installer](https://github.com/MarshallOfSound/electron-devtools-installer) - React Devtools
 
+React
+* [Hot Loader](https://github.com/gaearon/react-hot-loader)
+
 Webpack
-* [File Loader](https://github.com/webpack-contrib/file-loader)
-* [Style Loader](https://github.com/webpack-contrib/style-loader)
-* [Url Loader](https://github.com/webpack-contrib/url-loader)
-* [Postcss Loader](https://github.com/postcss/postcss-loader)
+* [File Loader](https://github.com/webpack-contrib/file-loader), [Url Loader](https://github.com/webpack-contrib/url-loader)
+* [Style Loader](https://github.com/webpack-contrib/style-loader), [Postcss Loader](https://github.com/postcss/postcss-loader)
+* [Dev Server](https://github.com/webpack/webpack-dev-server)
 
 Redux
 * [Redux Thunk](https://github.com/reduxjs/redux-thunk)
